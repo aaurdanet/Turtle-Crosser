@@ -1,4 +1,4 @@
-Turtle Crosser
+Turtle Crossing
 
 Turtle Crosser is a simple Python game where you control a turtle attempting to cross a busy road while avoiding oncoming cars. The goal is to safely navigate the turtle across the road to the other side, earning points and advancing levels as you progress. However, be careful! Colliding with a car will end the game.
 Gameplay
